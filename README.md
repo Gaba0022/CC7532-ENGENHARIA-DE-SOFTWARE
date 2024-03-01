@@ -16,7 +16,7 @@ Um aplicativo de uma casa de suínos localizada em Campo Grande - MS.
 
 # Entrega 1 - Definição de Projeto
 
-1. Definição do Prijeto: <br><br>
+1. Definição do Projeto: <br><br>
 A área de domínio do projeto é a alimentícia e comercial, se tratando de uma loja que vende carnes durante a semana e aos finais de semana atua com a venda de assados e outros alimentos servidos no próprio local
 
 2. Justifica (com referências): <br><br>
@@ -28,9 +28,9 @@ Aplicativos de mercado, como Carrefour por exemplo, seriam uma referência para 
 
 ## Referência
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [TITULO](LINK)
+ - [TITULO](LINK)
+- [TITULO](LINK)
 
 ---
 
