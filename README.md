@@ -27,10 +27,12 @@ Aplicativos de mercado, como Carrefour por exemplo, seriam uma referência para 
 
 ## Referências
 
- - [1] (globo.com.br)
+ - [1] [TITULO](LINK)
+ - [2] [TITULO](LINK)
+ - [3] [TITULO](LINK)
 
----
 <!--
+---
 # Entrega 2
 
  Table of Contents
