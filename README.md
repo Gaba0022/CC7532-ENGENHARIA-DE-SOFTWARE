@@ -18,7 +18,7 @@ Um aplicativo de uma casa de suínos localizada em Campo Grande - MS.
 1. Definição do Projeto: <br><br>
 A área de domínio do projeto é a alimentícia e comercial [[1]](#Referências), se tratando de uma loja que vende carnes durante a semana e aos finais de semana atua com a venda de assados e outros alimentos servidos no próprio local
 
-2. Justifica (com referências): <br><br>
+2. Justificativa (com referências): <br><br>
 O motivo da escolha deste projeto é a automatização de algumas funções da loja, melhorando a qualidade de vida dos cliente e gestão dos funcionários. Por exemplo, reserva de assados aos domingos, verificação de assados restantes e solicitação de cortes específicos.
 
 3. Análise de reuso (indicando níveis e técnias): <br><br>
