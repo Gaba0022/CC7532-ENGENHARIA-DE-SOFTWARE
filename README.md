@@ -3,8 +3,6 @@
 
 Um aplicativo de uma casa de suínos localizada em Campo Grande - MS.
 
----
-
 ## Autores
 
 - José Joaquim da Silva Neto 22.221.013-0
