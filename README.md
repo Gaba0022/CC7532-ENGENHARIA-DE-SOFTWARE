@@ -26,7 +26,9 @@ Aplicativos de mercado, como Carrefour por exemplo, seriam uma referência para 
 
 
 ## Referências
- #section-1 
+
+#section-1 
+ 
  - [1]
  - 1:2[TITULO](LINK)
  - 1:3[TITULO](LINK)
