@@ -26,7 +26,7 @@ O motivo da escolha deste projeto é a automatização de algumas funções da l
 Aplicativos de mercado, como Carrefour por exemplo, seriam uma referência para o desenvolvimento do nosso produto de software, pois ele possui funções relacionadas a alimento e gestão de negócios.
 
 
-## Referências
+# Referências
 
  - [1] [TITULO](LINK)
  - [2] [TITULO](LINK)
