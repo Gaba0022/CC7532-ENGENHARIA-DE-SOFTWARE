@@ -19,8 +19,8 @@ A área de domínio do projeto é a alimentícia e comercial, se tratando de uma
 
 # Justificativa (com referências):
 
-Um dos grandes motivadores para a escolha do projeto do aplicativo, foi o grande aumento de carne suína no Brasil, segundo o site do Globo Rural “O crescimento no consumo de carne suína é uma tendência que vem sendo observada por pesquisadores na última década. ‘Saltamos de uma média de consumo anual per capita de 13,7 quilos em 2010, para 18 quilos em 2023’” [[1]](#Referências)<br>
-Outro ponto importante foi um grande aumento do uso de aplicativos de delivery, como o IFood. No próprio site do IFood, o site apresenta que houve um aumento de 380% na quantidade de tempo que o povo brasileiro ficou em aplicativos de delivery[[2]](#Referências).<br>
+Um dos grandes motivadores para a escolha do projeto do aplicativo, foi o grande aumento de carne suína no Brasil, segundo o site do Globo Rural “O crescimento no consumo de carne suína é uma tendência que vem sendo observada por pesquisadores na última década. ‘Saltamos de uma média de consumo anual per capita de 13,7 quilos em 2010, para 18 quilos em 2023’” [[1]](#Referências)<br><br>
+Outro ponto importante foi um grande aumento do uso de aplicativos de delivery, como o IFood. No próprio site do IFood, o site apresenta que houve um aumento de 380% na quantidade de tempo que o povo brasileiro ficou em aplicativos de delivery [[2]](#Referências).<br><br>
 Finalizando, uma notícia da Veja apresentar uma proporção do gasto semanal em comida dividido entre os dias da semana, na reportagem mostra que 22,2% do valor gasto em comida é feito aos sábados [[3]](#Referências).
 
 
