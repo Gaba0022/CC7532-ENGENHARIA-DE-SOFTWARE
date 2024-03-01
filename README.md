@@ -26,7 +26,7 @@ Finalizando, uma notícia da Veja apresentar uma proporção do gasto semanal em
 
 # Análise de reuso (indicando níveis e técnias):
 
-Aplicativos de mercado, como Carrefour por exemplo, seriam uma referência para o desenvolvimento do nosso produto de software, pois ele possui funções relacionadas a alimento e gestão de negócios.
+Após a análise de reuso, verificamos que as técnicas utilizadas para o aplicativo Du Porco são Sistemas Orientados a Serviços, onde podemos usar sistemas desenvolvidos pela ligação de serviços compartilhados, que podem ser fornecidos externamente, e Desenvolvimento Baseado em Componentes, ou seja, usar integração de componentes (coleções de objetos) que atendem a padrões de modelo e componente. O seu nível de reuso seria Reuso de Componentes (subsistemas), pois podemos usar um sistema já desenvolvido para melhorar um recurso em nosso aplicativo, como exemplo: usar sistemas de agenda para facilitar na hora de agendamento de eventos, sistemas de mercado para veriicar disponibilidade de produtos (cortes, estoque, etc).
 
 
 # Referências
