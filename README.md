@@ -1,4 +1,8 @@
-# Aplicativo Du Porco
+# Aplicativo iPorco
+
+<p align="center">
+  <img width="50%" src="/repository-imgs/Logo.png" />
+</p>
 
 Um aplicativo de uma casa de suínos localizada em Campo Grande - MS.
 
