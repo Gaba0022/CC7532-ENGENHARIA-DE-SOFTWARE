@@ -1,7 +1,7 @@
 # Aplicativo iPorco
 
 <p align="center">
-  <img width="20%" src="/repository-imgs/Logo.png" />
+  <img width="20%" src="/repository-assets/Logo.png" />
 </p>
 
 # Aplicativo Du Porco
