@@ -1,10 +1,12 @@
 # Aplicativo iPorco
 
 <p align="center">
-  <img width="50%" src="/repository-imgs/Logo.png" />
+  <img width="20%" src="/repository-imgs/Logo.png" />
 </p>
 
-Um aplicativo de uma casa de suínos localizada em Campo Grande - MS.
+# Aplicativo Du Porco
+
+Um aplicativo de uma casa de suínos localizada em Campo Grande - MS, com objetivo de automatizar algumas funções e integrar melhorias para o cliente e para o negócio, como agendamento de eventos, reserva de assados aos finais de semana e consulta de cortes disponíveis.
 
 ---
 
@@ -14,5 +16,3 @@ Um aplicativo de uma casa de suínos localizada em Campo Grande - MS.
 - Fernando Chan Lin 22.221.015-5
 - Gabriel Martinho S de Moraes 22.120.039-7
 - William Yang 22.121.043-8
-
-
