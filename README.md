@@ -1,7 +1,7 @@
 # Aplicativo iPorco
 
 <p align="center">
-  <img width="20%" src="/repository-assets/Logo.png" />
+  <img width="20%" src="https://github.com/Gaba0022/CC7532-ENGENHARIA-DE-SOFTWARE/blob/main/ICS/Recursos/iPorco_Recursos_Logo.png" />
 </p>
 
 # Aplicativo Du Porco
