@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T01:22:13.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MPxAmJtSXq5QrlSTLMIU" version="24.0.6" type="device">
+<mxfile host="app.diagrams.net" modified="2024-03-15T01:24:57.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KWr-cRTSDxDcNaM8aExG" version="24.0.6" type="device">
   <diagram name="Página-1" id="PackzysqCE_SgGWZMTbv">
     <mxGraphModel dx="598" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="0MPRl1a49YGlIiTAVaeu-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0MPRl1a49YGlIiTAVaeu-1">
           <mxGeometry x="30" y="47.5" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="0MPRl1a49YGlIiTAVaeu-5" value="Realizar cadastro" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="0MPRl1a49YGlIiTAVaeu-1">
+        <mxCell id="0MPRl1a49YGlIiTAVaeu-5" value="Registrar no aplicativo" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="0MPRl1a49YGlIiTAVaeu-1">
           <mxGeometry x="123" y="45" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0MPRl1a49YGlIiTAVaeu-6" value="Tem conta?" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="0MPRl1a49YGlIiTAVaeu-1">
@@ -19,7 +19,7 @@
         <mxCell id="0MPRl1a49YGlIiTAVaeu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0MPRl1a49YGlIiTAVaeu-1" source="0MPRl1a49YGlIiTAVaeu-4" target="0MPRl1a49YGlIiTAVaeu-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0MPRl1a49YGlIiTAVaeu-8" value="Realizar&amp;nbsp;&lt;div&gt;login&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="0MPRl1a49YGlIiTAVaeu-1">
+        <mxCell id="0MPRl1a49YGlIiTAVaeu-8" value="Logar no aplicativo" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="0MPRl1a49YGlIiTAVaeu-1">
           <mxGeometry x="183" y="7.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0MPRl1a49YGlIiTAVaeu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0MPRl1a49YGlIiTAVaeu-1" source="0MPRl1a49YGlIiTAVaeu-6" target="0MPRl1a49YGlIiTAVaeu-8">
