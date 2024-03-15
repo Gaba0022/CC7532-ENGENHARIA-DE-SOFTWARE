@@ -6,7 +6,7 @@
 
 # Aplicativo Du Porco
 
-Um aplicativo de uma casa de suínos localizada em Campo Grande - MS, com objetivo de automatizar algumas funções e integrar melhorias para o cliente e para o negócio, como agendamento de eventos, reserva de assados aos finais de semana e consulta de cortes disponíveis.
+Um aplicativo de uma casa de suínos localizada em Campo Grande - MS, com objetivo de automatizar algumas funções e integrar melhorias para o cliente e para o negócio, como agendamento de eventos, reserva de assados aos domingos e consulta de cortes disponíveis.
 
 ---
 
